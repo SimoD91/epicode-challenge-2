@@ -1,1 +1,1 @@
-Epicode pre-corso Challenge 1 (HTML Basics)
+Epicode pre-corso Challenge 2 (Frontend Basics)
